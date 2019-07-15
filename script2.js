@@ -1,0 +1,1017 @@
+let fishes = {
+    marineAquariumFishSpecies: {
+        angelFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "yellow-gold",
+            size: "12 inches",
+            lifeSpan: "10-years",
+        },
+        anthias: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "pink",
+            size: "27 cm",
+            lifeSpan: "5-10 years",
+        },
+        alligatorFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        blenniesAndEngineerGobies: {
+            needHugeAquariums: "80gallons",
+            feed: "flake",
+            color: "blue",
+            size: "37 cm",
+            lifeSpan: "3-7years",
+        },
+        batfish: {
+            needHugeAquariums: "60gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        butterFlyFish: {
+            needHugeAquariums: "100gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        cardinalFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        chromis: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        clownfish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        damselfish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        damselfish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+
+        dartFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        eels: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        fileFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        Foxface: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        flatFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        frogFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        goatFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        hamlet: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        caveFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+
+        damselfish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        hogFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        idols: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        idols: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        bleak: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        lionFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        jawFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        idols: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        parrotFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        idols: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        pipeFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        idols: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        jawFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        pipeFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        pseudochromis: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        lionFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        damselfish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        damselfish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+
+        dartFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        eels: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        fileFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        foxfish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        flatFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        frogFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        goatFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        hamlet: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        caveFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+
+        damselfish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        caveFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+
+        caveFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+
+        caveFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+
+        caveFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        rabbitFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+
+        betta: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+
+        rays: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        idols: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        bleak: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        lionFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        jawFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        idols: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        Parrotfish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        idols: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        seaHorse: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        snappers: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        jawFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        damselfish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        caveFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+
+        caveFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+
+        dab: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+
+        chub: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        rabbitFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+
+        betta: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+
+        rays: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        tangs: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        bleak: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        hamlet: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        idols: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        arapaima: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        hawkFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        arapaima: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        cusk: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        sharks: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        arapaima: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        pipeFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        betta: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        tileFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        arapaima: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        wrase: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+    },
+    gameFisheries: {
+        angelFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "yellow-gold",
+            size: "12 inches",
+            lifeSpan: "10-years",
+        },
+        anthias: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "pink",
+            size: "27 cm",
+            lifeSpan: "5-10 years",
+        },
+        alligatorFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        blenniesAndEngineerGobies: {
+            needHugeAquariums: "80gallons",
+            feed: "flake",
+            color: "blue",
+            size: "37 cm",
+            lifeSpan: "3-7years",
+        },
+        batfish: {
+            needHugeAquariums: "60gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        butterFlyFish: {
+            needHugeAquariums: "100gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+    },
+    cyanideFishing: {
+        angelFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "yellow-gold",
+            size: "12 inches",
+            lifeSpan: "10-years",
+        },
+        anthias: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "pink",
+            size: "27 cm",
+            lifeSpan: "5-10 years",
+        },
+
+        chub: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+
+        bleak: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+        rabbitFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+
+        betta: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+
+
+        rays: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        tangs: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        bleak: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        hamlet: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        idols: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        arapaima: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        caveFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        arapaima: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        cusk: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        sharks: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        arapaima: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        pipeFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        scorpioFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        tileFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        tiggerFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        wrase: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+    },
+    gameFisheries: {
+        angelFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "yellow-gold",
+            size: "12 inches",
+            lifeSpan: "10-years",
+        },
+        anthias: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "pink",
+            size: "27 cm",
+            lifeSpan: "5-10 years",
+        },
+        alligatorFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        idols: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        tiggerFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        caveFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        arapaima: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        cusk: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        sharks: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        arapaima: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        pipeFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        betta: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        tileFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        arapaima: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        wrase: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+    },
+    gameFisheries: {
+        angelFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "yellow-gold",
+            size: "12 inches",
+            lifeSpan: "10-years",
+        },
+        anthias: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "pink",
+            size: "27 cm",
+            lifeSpan: "5-10 years",
+        },
+        alligatorFish: {
+            needHugeAquariums: "180gallons",
+            feed: "flake",
+            color: "black",
+            size: "23 cm",
+            lifeSpan: "5-6years",
+        },
+        blenniesAndEngineerGobies: {
+            needHugeAquariums: "80gallons",
+            feed: "flake",
+            color: "blue",
+            size: "37 cm",
+            lifeSpan: "3-7years",
+        },
+    },
+}
